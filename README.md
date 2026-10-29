@@ -54,3 +54,6 @@ This project provides practical experience in web scraping, Python programming, 
 
 ---
 Academic Project — 2026–2027
+## Google Colab Notebook
+
+[Open Project in Google Colab](https://colab.research.google.com/drive/1PnPCsZeYq3_AZ5FueQQuFczrhQ3q3Arb?usp=sharing)
